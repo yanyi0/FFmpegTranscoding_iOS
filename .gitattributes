@@ -1,0 +1,5 @@
+FFmpegTranscoding/FFmpeg/lib/libavcodec.a filter=lfs diff=lfs merge=lfs -text
+FFmpegTranscoding/resources/1-Dory.MOV filter=lfs diff=lfs merge=lfs -text
+FFmpegTranscoding/resources/5-Minh.mp4 filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+/FFmpegTranscoding/FFmpeg/lib/libavcodec.a filter=lfs diff=lfs merge=lfs -text
